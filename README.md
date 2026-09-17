@@ -251,13 +251,4 @@ Key Insights
 
 Filters
 
-📁 Project Files
-📊 Power BI Dashboard — Interactive .pbix dashboard
-🗄️ SQL File — Business analysis queries
-📁 Dataset — Customer churn dataset
-📸 Dashboard Screenshots — Visual preview of the project
-👩‍💻 About the Project
 
-This project was created as part of my Data Analytics portfolio to strengthen my practical skills in SQL, Power BI, DAX and business-oriented data analysis.
-
-The focus was not only on creating charts, but on connecting the analysis with real business questions and customer retention decisions.
